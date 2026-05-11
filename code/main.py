@@ -55,9 +55,9 @@ class Game:
         self.screen.blit(text_surf, text_rect)
         return False
 
-    import os
+    
 
-    import os
+    
 
     def start_screen(self):
         """Show start menu with rounded button, centered title, and floating enemy images"""
